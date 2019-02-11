@@ -15,7 +15,7 @@ input username
 print username
 input password
 print password
-input passwords
+input passwords  
 print confirm password
 Print username and 
 input username
