@@ -2,6 +2,14 @@
 LoginuserAccount
 # Descrption of the project
 this project is about how  user will be creating username and password after creating that,for the second time they will be  login  in by using the created account ,the information will be stored in file  that has extension .txt and it will hase even the file where it will test if user is saved or if they can delete  it can also  check for that.
+# Test Driven Development -TDD
+Coding
+Creeating username and password and alod login in
+Testing
+Testing if username and password is saved
+checking if  username can be deleted
+Refactoring
+Confrimation about testing
 # Instrcuction  to be followed
 input username
 input password
