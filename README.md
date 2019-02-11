@@ -12,6 +12,13 @@ Refactoring
 Confrimation about testing
 # Instrcuction  to be followed
 input username
+print username
+input password
+print password
+input passwords
+print confirm password
+Print username and 
+input username
 input password
 if input usernme==inputusername and inputpassword== inputpaword:
 print  login to your account
