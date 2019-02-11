@@ -25,3 +25,5 @@ I used Terminal for checking
  Emails:akimanizanyeclaudine@gmail.com
  Phone:098766544
  Repositority Link:https://github.com/AKIMANIZANYE/Login.git
+# License and Copyright
+AKIMANIZANYE 2019
