@@ -17,7 +17,7 @@ input password
 print password
 input passwords  
 print confirm password
-Print username and 
+Print username and password
 input username
 input password
 if input usernme==inputusername and inputpassword== inputpaword:
