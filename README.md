@@ -23,7 +23,7 @@ input password
 if input usernme==inputusername and inputpassword== inputpaword:
 print  login to your account
 else:
-print the username and passwor is incorrect
+print the username and passwor is incorrect is not validating into our  list
 
 # Technologu Used
 I used  Ptyhon3.6
@@ -36,3 +36,4 @@ I used Terminal for checking
  Repositority Link:https://github.com/AKIMANIZANYE/Login.git
 # License and Copyright
 AKIMANIZANYE @2019
+
