@@ -14,7 +14,7 @@ class testing (unittest.TestCase):
    
 
     def test_delete(self):
-         User.user_list.remove(self)
+       User.user_list.remove(self)
             
         
 # def test_user_exists(self):

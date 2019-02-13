@@ -10,7 +10,6 @@ class User:
         User.user_list.append(self)
             
     def delete(self):
-            
         User.user_list.remove(self)
 
     def displaying(cls):
